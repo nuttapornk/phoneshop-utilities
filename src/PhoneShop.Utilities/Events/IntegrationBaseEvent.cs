@@ -1,4 +1,6 @@
-﻿namespace PhoneShop.Utilities.Events
+﻿using System;
+
+namespace PhoneShop.Utilities.Events
 {
     public class IntegrationBaseEvent
     {

@@ -2,13 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>phoneshop-utilities</PackageId>
     <Authors>Nuttaporn Kunsin</Authors>
     <Company>N/A</Company>
     <RepositoryUrl>https://github.com/nuttapornk/phoneshop-utilities</RepositoryUrl>
-    <Version>0.0.1</Version>
+    <Version>0.0.1</Version>    
   </PropertyGroup>
 
 </Project>
